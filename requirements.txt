@@ -1,4 +1,4 @@
 pyperclip
-tkinter
 pynput
-PIL
+Pillow
+pyautogui
